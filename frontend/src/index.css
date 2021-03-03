@@ -1,0 +1,17 @@
+body {
+  min-width: 100vw;
+  min-height: 100vh;
+
+  /* overflow-y: hidden;
+  overflow-x: hidden; */
+
+  background-color: #e5e9ec;
+
+  margin: 0px;
+  padding: 0px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

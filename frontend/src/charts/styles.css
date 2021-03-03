@@ -1,0 +1,76 @@
+.linechart-container 
+{
+  height: 400px;
+  width:  800px;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.selection-line-container
+{
+    height: 70px;
+    width: 900px;
+
+    margin-top: 10px;
+    padding: 0px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.linechart-root
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    
+    height: 470px;
+    width:  800px;
+    background-color: white;
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.barchart-container 
+{
+  height: 400px;
+  width:  2600px;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.selection-bar-container
+{
+    height: 70px;
+    width: 2700px;
+        
+    margin-top: 10px;
+    padding: 0px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.barchart-root
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    
+    height: 500px;
+    width:  2700px;
+    background-color: white;
+    
+    margin: 0px;
+    padding: 0px;
+}

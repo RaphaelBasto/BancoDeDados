@@ -1,0 +1,46 @@
+.covidage-pod
+{
+  height: 500px;
+  width:  1400px;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.covidage-barchart-root
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    
+    height: 500px;
+    width:  800px;
+    background-color: white;
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+.covidage-selection-container
+{
+    height: 70px;
+    width: 1400px;
+
+    margin-top: 10px;
+    padding: 0px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.covidage-barchart-container 
+{
+  height: 400px;
+  width:  1300px;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+}

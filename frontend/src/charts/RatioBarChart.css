@@ -1,0 +1,58 @@
+.ratio-barchart-container
+{
+  height: 485px;
+  width:  680px;
+  
+  background-color: white;
+
+  padding: 0px;
+  margin: 0px;
+}
+
+.ratio-barchart-header
+{
+  height: 25px;
+  width:  580px;
+  
+  background-color: white;
+  /* border: 1px solid black; */
+
+  margin: 0px;
+  padding: 0px;
+  
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 20px;
+  padding-top: 15px;
+
+  background-color: white;
+}
+
+.ratio-barchart-text
+{   
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    /* color: #4c95e3; */
+    
+}
+
+.ratio-barchart-root
+{
+  height: 530px;
+  width:  680px;
+  
+  background-color: white;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+  margin: 0px;
+  padding: 0px;
+
+  margin-top: 20px;
+  margin-left: 20px;
+}

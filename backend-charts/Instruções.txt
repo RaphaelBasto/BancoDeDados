@@ -1,0 +1,6 @@
+Instruções para conectar o Banco de Dados à API:
+
+Acesse o arquivo "DbManager.ts" e encontre as linha 26 a 29 do arquivo.
+Nelas o usuário encontrará espaços reservados para informar seu respectivo host, user, password e database.
+
+Após a inserção dessas informações, a aplicação estará pronta para uso.
