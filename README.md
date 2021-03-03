@@ -47,3 +47,17 @@ Aplicação:
         -npm i --save (para baixar e instalar as dependências do projeto)
         
         -npm run start ( para buildar e executar o projeto propriamente )
+        
+    -Banco:
+    
+      - Descompactar os arquivos dentro de Planilhas.rar
+
+      - Executar Banco.sql para criar o Banco.
+
+      - Executar inserts.sql, essa instrução introduz os dados no banco
+        na ordem correta e de forma veloz. Dependendo da instalação
+        do mysql talvez seja necessário executar o seguinte comando
+        antes de rodar essa instrução: "set global local_infile=1;"
+        OBS: é necessário que os arquivos: HSL_Pacientes_3, HSL_Exames_3 e
+        HSL_Desfechos_3 estejam no mesmo diretório de inserts.sql
+
